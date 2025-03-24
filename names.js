@@ -5,7 +5,7 @@ function myName (firstName, lastName) {
     }
 }
 
-console.log(myName('Valerio', 'Di Biagio'));
+// console.log(myName('Valerio', 'Di Biagio'));
 
 module.exports = myName;
 
